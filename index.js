@@ -4,3 +4,6 @@ var recipes = {
   oil: '3 tsp',
   flour: '2 cups'
 };
+function updateObjectWithKeyAndValue(object, key, value) {
+  
+}
